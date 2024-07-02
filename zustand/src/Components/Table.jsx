@@ -32,7 +32,7 @@ export default function TodoTable() {
       <Table sx={{ minWidth: 650 }} aria-label="todo table">
         <TableHead>
           <TableRow>
-            <TableCell>Todo</TableCell>
+            <TableCell>Todos</TableCell>
             <TableCell align="right">Status</TableCell>
             <TableCell align="right">Actions</TableCell>
           </TableRow>
