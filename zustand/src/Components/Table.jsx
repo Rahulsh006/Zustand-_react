@@ -34,7 +34,7 @@ export default function TodoTable() {
           <TableRow>
             <TableCell>Todos</TableCell>
             <TableCell align="right">Status</TableCell>
-            <TableCell align="right">Actions</TableCell>
+            <TableCell align="right">Actionsss</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
